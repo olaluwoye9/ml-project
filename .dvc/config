@@ -1,4 +1,0 @@
-[core]
-    remote = localremote
-['remote "localremote"']
-    url = /Users/olaluwoyeolalekantaofeek/dvc-storage/ml-project
