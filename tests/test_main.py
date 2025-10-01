@@ -34,3 +34,4 @@ def test_prediction_valid_model_mocks_model(mocker):
     assert r.status_code == 200
     assert r.json()["prediction"] == "mocked"
     mock.assert_called_once_with("modelA", {"x": 1})
+# ci trigger
