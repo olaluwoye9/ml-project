@@ -4,3 +4,6 @@ uvicorn
 python-dotenv
 pytest
 pytest-mock
+python-multipart
+httpx
+httpx
