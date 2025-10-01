@@ -36,3 +36,4 @@ def test_prediction_valid_model_mocks_model(mocker):
     mock.assert_called_once_with("modelA", {"x": 1})
 # ci trigger
 # trigger
+# trigger
